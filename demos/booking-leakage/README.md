@@ -3,6 +3,8 @@
 **Status:** DEMO  
 **Public demo:** https://booking-leakage.netlify.app/  
 **Current demo build:** v0.2.0  
+**Netlify production deploy:** `6aac7d35edda6276e935ac17`  
+**Live deployment verified:** 2026-09-18  
 **Owner:** Clay Waterson  
 **Public proof release:** v0.1.0
 
@@ -39,6 +41,8 @@ The reviewed v0.2.0 release recorded:
 - Event-demo browser gate: **13/13 passed**
 - Production build: **passed**
 - Browser page/console errors during the recorded rehearsal: **0**
+
+The current Netlify production deployment was replaced on 2026-09-18 with the packaged v0.2.0 `dist/` output. Netlify reports the deploy as **ready**, production context, manual drop, with **4 uploaded files**.
 
 See [docs/qa-summary.md](docs/qa-summary.md).
 
