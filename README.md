@@ -35,7 +35,8 @@ Every substantial artifact should state its maturity, version, provenance, and l
 
 ## Clay Waterson
 
-Public front door: https://claywaterson.com  
+Current public front door: https://clay-waterson-systems-lab.claywaterson.chatgpt.site  
+Canonical domain: https://claywaterson.com *(custom-domain migration pending)*  
 GitHub: https://github.com/claywaterson
 
 ---
