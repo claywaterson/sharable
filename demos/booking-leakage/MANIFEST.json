@@ -1,0 +1,28 @@
+{
+  "artifact": "CW_GitHub_BookingLeakage_PublicProof",
+  "version": "0.1.0",
+  "date": "2026-09-18",
+  "source_demo_version": "0.2.0",
+  "status": "DEMO",
+  "visibility": "PUBLIC_SANITIZED",
+  "live_demo": "https://booking-leakage.netlify.app/",
+  "files": [
+    "README.md",
+    "CHANGELOG.md",
+    "SECURITY.md",
+    "NOTICE",
+    "LICENSE",
+    "docs/architecture.md",
+    "docs/demo-boundary.md",
+    "docs/qa-summary.md",
+    "MANIFEST.json"
+  ],
+  "excluded": [
+    "production credentials",
+    "client data",
+    "private orchestration",
+    "live integration configuration",
+    "commercial service-delivery logic",
+    "complete private source"
+  ]
+}
