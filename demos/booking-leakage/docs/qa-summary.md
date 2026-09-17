@@ -2,7 +2,10 @@
 
 **Source release:** `CW_App_SeshCloud_BookingLeakage_20260916_v0.2.0`  
 **Release class:** Interactive synthetic demo  
-**Production SeshCloud:** Not connected
+**Production SeshCloud:** Not connected  
+**Current Netlify deploy:** `6aac7d35edda6276e935ac17`  
+**Deploy state:** Ready  
+**Published:** 2026-09-18 (Europe/Amsterdam)
 
 ## Recorded checks
 
@@ -13,6 +16,21 @@
 | Production build | Passed |
 | Event-demo browser gate | 13/13 passed |
 | Browser page/console errors | 0 |
+
+## Deployment verification
+
+Netlify reports the current production deploy as:
+
+- site: `booking-leakage`;
+- site ID: `901d614a-da0f-46b4-80ea-4474163edde1`;
+- deploy ID: `6aac7d35edda6276e935ac17`;
+- context: `production`;
+- state: `ready`;
+- source: manual drop;
+- uploaded output: 1 generated page + 3 assets;
+- live alias: https://booking-leakage.netlify.app/.
+
+This deploy replaced the prior 2026-09-15 production deploy.
 
 ## Rehearsed path
 
