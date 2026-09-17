@@ -48,7 +48,8 @@ This public proof does not include production credentials, client data, private 
 
 ## Related
 
-- Clay Waterson: https://claywaterson.com
+- Clay Waterson current front door: https://clay-waterson-systems-lab.claywaterson.chatgpt.site
+- Canonical domain: https://claywaterson.com *(custom-domain migration pending)*
 - Live demo: https://booking-leakage.netlify.app/
 - Public proof repository: https://github.com/claywaterson/sharable
 
