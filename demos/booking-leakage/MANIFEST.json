@@ -6,6 +6,11 @@
   "status": "DEMO",
   "visibility": "PUBLIC_SANITIZED",
   "live_demo": "https://booking-leakage.netlify.app/",
+  "netlify_site_id": "901d614a-da0f-46b4-80ea-4474163edde1",
+  "netlify_deploy_id": "6aac7d35edda6276e935ac17",
+  "netlify_deploy_state": "ready",
+  "netlify_deployed_at": "2026-09-17T23:52:23.848Z",
+  "netlify_deploy_source": "drop",
   "files": [
     "README.md",
     "CHANGELOG.md",
